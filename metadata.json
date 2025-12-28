@@ -1,0 +1,8 @@
+{
+  "name": "Barakah Engineer - Growth & Discipline",
+  "description": "A productivity and lifestyle companion for Tunisian software engineers, featuring PRO and SIMPLE schedules, muscle gain meal plans, structured workouts, and prayer reminders.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
